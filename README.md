@@ -1,6 +1,6 @@
-# Does AI-Assisted Scientific Writing Affect Readability?
+# Do LLM's Affect Readability of Scientific Writing?
 
-This study investigates whether AI-assisted writing tools correlate with measurable changes in readability across peer-reviewed scientific literature from 2015 to 2025.
+This study investigates whether LLM's AI-Tools correlate with measurable changes in readability across peer-reviewed scientific literature from 2015 to 2025.
 
 ## Project Overview
 
