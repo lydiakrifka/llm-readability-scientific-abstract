@@ -6,7 +6,9 @@ This study investigates whether AI-assisted writing tools correlate with measura
 
 Using the OpenAlex API, we compiled 33,000 abstracts published between 2015 and 2025 across three domains: Artificial Intelligence, Medicine, and Business. Readability was assessed using three established formulas: Flesch-Kincaid Grade Level (FKGL), Automated Readability Index (ARI), and Dale-Chall.
 
-![Readability Trends](figures/readability_trends_AI_2015_2025.png)
+![AI Readability Trends](readability_trends_AI_2015_2025.png)
+![Medicine Readability Trends](readability_trends_MEDICINE_2015_2025.png)
+![Business Readability Trends](readability_trends_BUSINESS_2015_2025.png)
 
 Key findings indicate that the AI domain shows a consistent rise in complexity that sharply accelerates after 2022, whereas the Medicine and Business domains show high year-to-year volatility before converging in an upward spike in 2023-2025. Statistical significance appears primarily from 2024 onwards when comparing to 2018 baseline.
 
