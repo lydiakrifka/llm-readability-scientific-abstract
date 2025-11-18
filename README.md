@@ -101,4 +101,4 @@ Contact: daniel.duhnev01@estudiant.upf.edu, marceloenrique.jimenez01@estudiant.u
 
 ## Acknowledgments
 
-OpenAlex API for open access to scholarly metadata, textstat library for readability implementations, Prof. Davina Durgana (UPF) for supervision.
+OpenAlex API for open access to scholarly metadata, textstat library for readability implementations, Prof. Davinia Hernández-Leo (UPF) for supervision.
